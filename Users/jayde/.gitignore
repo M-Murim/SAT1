@@ -1,0 +1,27 @@
+# System files and directories
+.Bin/
+System Volume Information/
+Recovery/
+Documents and Settings/
+hiberfil.sys
+pagefile.sys
+swapfile.sys
+
+# Application-specific files and directories
+DumpStack.log
+DumpStack.log.tmp
+Intel/
+MSOCache/
+OEM/
+OneDriveTemp/
+Program Files/
+Program Files (x86)/
+ProgramData/
+Qt/
+Riot Games/
+Windows/
+XboxGames/
+appverifUI.dll
+vfcompat.dll
+player_resource/
+tile_resource/
